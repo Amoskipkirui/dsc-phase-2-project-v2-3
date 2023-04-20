@@ -3,7 +3,7 @@
 
 # King County House Analysis
 
-### Authors: [Amos Kipkirui, Brian Muli, Emilly Njue, Swaleh Athuman, Samwel Kagwi, Heddy Berit](https://github.com/swalehmwadime/dsc-phase-2-project-v2-3.git)
+### Authors: [Amos Kipkirui](https://github.com/swalehmwadime/dsc-phase-2-project-v2-3.git)
 
 ## Overview
 
