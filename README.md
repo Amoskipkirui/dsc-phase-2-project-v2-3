@@ -3,7 +3,7 @@
 
 # King County House Analysis
 
-### Authors: [Amos Kipkirui](https://github.com/swalehmwadime/dsc-phase-2-project-v2-3.git)
+### Authors: [Amos Kipkirui]
 
 ## Overview
 
@@ -65,6 +65,3 @@ Our linear regression model us to four recommendations:
 
 In this project, we are only looking at surface level coefficients in order to make complicated decisions. Further research and analysis can be done to improve the accuracy of the models and to gain a better understanding of the factors that influence housing prices in King County.
 
-## For More Information
-
-See the full analysis in the [Jupyter Notebook](https://github.com/swalehmwadime/dsc-phase-2-project-v2-3/blob/main/student.ipynb) or review our [presentation](https://github.com/swalehmwadime/dsc-phase-2-project-v2-3/blob/main/presentation.pdf).
